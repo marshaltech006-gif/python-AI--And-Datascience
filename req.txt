@@ -1,0 +1,27 @@
+
+transformers
+
+# Data Handling
+openpyxl
+xlrd
+h5py
+
+# Visualization
+plotly
+bokeh
+altair
+
+# Utilities
+tqdm
+requests
+beautifulsoup4
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Time Series
+prophet
+
+# Others
+joblib
